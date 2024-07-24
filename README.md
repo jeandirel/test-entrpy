@@ -1,2 +1,2 @@
-# test-entrpy
+# test-entropy
 test alternance
